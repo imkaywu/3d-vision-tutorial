@@ -20,3 +20,6 @@ application. \
 [07_epipolar_geometry.ipynb](https://github.com/imkaywu/3d-vision-tutorial/blob/main/07_epipolar_geometry.ipynb): epipolar geometry (unfinished). \
 [misc_01_transformation.ipynb](https://github.com/imkaywu/3d-vision-tutorial/blob/main/misc_01_transformation.ipynb): demystify point transformation and coordiante
 transformation. \
+
+## License
+[Beerware](https://en.wikipedia.org/wiki/Beerware)
